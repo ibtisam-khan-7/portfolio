@@ -356,7 +356,7 @@
             .portfolio_wrapper .portfolio-img>img{
                 border-radius: .9375rem;
                 object-fit: cover;
-                object-position:center;
+                object-position: center;
             }
             .portfolio_wrapper .portfolio-img .hidden-text{
                 position:absolute;
